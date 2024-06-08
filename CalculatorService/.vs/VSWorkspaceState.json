@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CalculatorService",
+    "\\CalculatorService.Tests",
+    "\\CalculatorService.Tests\\Controllers",
+    "\\CalculatorService\\Controllers",
+    "\\TestResults\\Deploy_pasha 20240608T120051\\Out"
+  ],
+  "SelectedNode": "\\CalculatorService.Tests\\Controllers\\CalculatorServiceTest.cs",
+  "PreviewInSolutionExplorer": false
+}
